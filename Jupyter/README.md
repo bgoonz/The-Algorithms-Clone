@@ -14,6 +14,18 @@ You can run and edit the algorithms or contribute to them using [Gitpod.io](http
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/TheAlgorithms/Jupyter)
 
+## 🌏  Optioanlly, try in other Cloud IDEs
+
+Click any of the buttons below to start a new development environment to demo or contribute to the codebase without having to install anything on your machine:
+
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/TheAlgorithms/Jupyter)
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/TheAlgorithms/Jupyter)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/TheAlgorithms/Jupyter)
+[![Edit in Codesandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/TheAlgorithms/Jupyter)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/TheAlgorithms/Jupyter)
+[![Open in Repl.it](https://replit.com/badge/github/withastro/astro)](https://replit.com/github/TheAlgorithms/Jupyter)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/TheAlgorithms/Jupyter)
+
 ## Contributing New Algorithms
 
 - Make your pull requests to be **specific** and **focused**. Instead of contributing "several algorithms" all at once contribute them all one by one separately (i.e. one pull request for "Logistic Regression", another one for "K-Means" and so on).
